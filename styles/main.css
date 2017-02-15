@@ -1,0 +1,111 @@
+/*#### Header elements   ####*/
+ol{
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+header {
+  height: 500px;
+  overflow: hidden;
+  background: #ffeb59;
+}
+
+
+
+li  {
+
+  padding-top: 120px;
+text-align: center;
+color: black;
+margin-left: 19%;
+margin-right: 5%;
+list-style-type: none;
+text-decoration: none;
+
+
+}
+
+
+
+
+
+
+.navigation-link {
+  margin-left: : 5%
+ padding-top: 120px;
+text-align: center;
+color: black;
+margin-right: 5%;
+text-decoration: none;
+
+
+
+}
+
+
+h1{
+  padding-top: 200px;
+  text-align: center;
+  margin-right: 70px;
+}
+
+h2{
+
+  text-align: center;
+  margin-left: 85px;
+  padding-top: 0px;
+  color: #fff;
+}
+
+h3{
+  margin-right: 150px;
+  padding-top: 30px;
+  color: #fff;
+  margin-left: 150px;
+  text-align: center;
+}
+#logo {
+  padding-top: 150px;
+  width : 250px;
+  height: 300px;
+  float: left;
+  margin-left: 5px;
+
+}
+
+
+.section01 {
+ background: url('images/fleur.jpg') top center no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ height: 800px;
+}
+
+.section02 {
+ background: url('images/rose.jpg') top center no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ height: 100px;
+}
+
+.content {
+  overflow: hidden;
+  height: 900px;
+
+
+}
+video {
+  text-align: center;
+  border : 15px solid #fff;
+  border-radius: 8px;
+  display: block;
+  width : 700px;
+  margin: 2em auto;
+
+}
+
+
+
+
+/*#### Styles pour les navigations dans les pages   ####*/
